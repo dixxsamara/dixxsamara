@@ -1,12 +1,4 @@
-# eu
-- sou estudante do ensino medio
-- 👋’Olá eu sou @dixxsamara
-- 👀 I’m interested in concluir meus estudos
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-dixxsamara/dixxsamara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+oieee eu sou a dixxsamarai 
+sou estudante do novo ensino medio e nao sei oq to fazendo aqui mas ok
+no momento estou estudando programaçao de jogos 
+no momento e isso daqui um tempo venho aqui atualizar denovo BYE BYE...
